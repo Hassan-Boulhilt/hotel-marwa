@@ -1,0 +1,4 @@
+name = "hotel-marwa"
+compatibility_date = "2025-09-20"
+main: "./src/main.tsx"
+
